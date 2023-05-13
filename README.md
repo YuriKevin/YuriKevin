@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**YuriKevin/YuriKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Yuri Kevin, tenho 20 anos e estou finalizando o ensino médio integrado em técnico de informática, pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 
-Here are some ideas to get you started:
+### Envie uma mensagem clicando aqui:
+<div>
+  <a href = "mailto:yurikevin1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Atualmente estudo JAVA, PHP e recentemente FLUTTER.
+
+#### Tenho focado meus estudos em programação Flutter, possuo 3 projetos a serem desenvolvidos e publicados até o final do ano:
+
+##### - Aplicativo de organização fitness; <a href = "https://www.figma.com/file/lCT7pZRjhxXq2VACgM72H3/Untitled?type=design&t=0A2hpoIeM8rf0MZB-1">(Design)</a>
+
+##### - Aplicativo de organização de estudos; <a href = "https://www.figma.com/file/qC4iMZjLYC5iJ62ZOEGKE8/Untitled?type=design&node-id=0%3A1&t=0A2hpoIeM8rf0MZB-1">(Design)</a>
+
+##### - Aplicativo para treinar o inglês através da percepção auditiva. <a href = "mailto:yurikevin1405@gmail.com">(Design)</a>
+
