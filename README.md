@@ -15,5 +15,5 @@
 
 ##### - Aplicativo de organização de estudos; <a href = "https://www.figma.com/file/qC4iMZjLYC5iJ62ZOEGKE8/Untitled?type=design&node-id=0%3A1&t=0A2hpoIeM8rf0MZB-1">(Design)</a>
 
-##### - Aplicativo para treinar o inglês através da percepção auditiva. <a href = "mailto:yurikevin1405@gmail.com">(Design)</a>
+##### - Aplicativo para treinar o inglês através da percepção auditiva. <a href = "https://www.figma.com/file/7bd8NxLc6pNRESt5F7EH0P/KevListen?type=design&node-id=0%3A1&t=AjJKLGZNDeNUGsla-1">(Design)</a>
 
