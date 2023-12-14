@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### Me chamo Yuri Kevin, tenho 20 anos e estou finalizando o ensino médio integrado em técnico de informática, pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
+### Me chamo Yuri Kevin, tenho 20 anos e sou formado em técnico de informática, pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia.
 
 ### Envie uma mensagem clicando aqui:
 <div>
