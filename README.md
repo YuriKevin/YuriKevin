@@ -7,4 +7,3 @@
   <a href = "mailto:yurikevin1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-#### Atualmente estudo JAVA com Spring Boot, PHP e Angular
